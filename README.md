@@ -1,4 +1,1 @@
-SistemMVendas
-=============
-
-New system of sales 
+SistemMVendas. This first system in my android platform, it is a sales system for people who need to sell without tax schedule and note the system will have a cdastro customer, product, customer orders, based SqlLite of data, I want to put a dashborad historical sales, customer and best selling products as well as the system of sending e-mails or sms to warn customers that would be more in the future.
